@@ -18,13 +18,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-python event_lookup.py <EventID> 
+python event_lookup.py ``<EventID>``
 
 - Replace <EventID> with the actual Event ID you want to look up.
 
-## Example Output
-Event ID: 4625
-Legacy Event ID: N/A
-Criticality: High
-Summary: An account failed to log on.
-Ultimate Windows Security: [https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4625](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4625)
+
