@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-python event_lookup.py ``<EventID>``
+``python event_lookup.py <EventID>``
 
 - Replace <EventID> with the actual Event ID you want to look up.
 
